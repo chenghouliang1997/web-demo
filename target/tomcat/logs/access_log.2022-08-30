@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Aug/2022:21:31:47 +0800] "GET /web-demo HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Aug/2022:21:31:47 +0800] "GET /web-demo/ HTTP/1.1" 200 52 http-bio-8080-exec-3 28
+0:0:0:0:0:0:0:1 - - [30/Aug/2022:21:31:47 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [30/Aug/2022:21:31:56 +0800] "GET /web-demo/demo4 HTTP/1.1" 200 - http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [30/Aug/2022:21:32:34 +0800] "GET /web-demo/ HTTP/1.1" 200 52 http-bio-8080-exec-1 25
+0:0:0:0:0:0:0:1 - - [30/Aug/2022:21:32:41 +0800] "GET /web-demo/demo4 HTTP/1.1" 200 - http-bio-8080-exec-3 2
